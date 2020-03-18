@@ -41,3 +41,4 @@ def build_sp500_dataset(start=START_DATE, end=END_DATE):
 
 if __name__ == "__main__":
     build_stock_dataset()
+    build_sp500_dataset()
