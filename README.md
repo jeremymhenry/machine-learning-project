@@ -1,4 +1,6 @@
-## CSCI 5930 Course Project: Predicting Bull and beaR
+## CSCI 5930 - Machine Learning Course Project: 
+
+## Predicting Bull and beaR
 
 **Team Members:**
 * Ranjan Raut, ranjan.raut@ucdenver.edu
