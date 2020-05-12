@@ -1,4 +1,4 @@
-## CSCI 5930 - Machine Learning 
+## CSCI 5930 - Machine Learning - Spring 2020
 
 ### "Predicting Bull and beaR" Project Repository
 
