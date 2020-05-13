@@ -1,0 +1,12 @@
+requests>=2.20.0
+tqdm==4.19.5
+pytest==3.4.1
+pandas_datareader
+numpy
+pandas
+scikit_learn
+scipy
+yfinance
+wheel
+matplotlib
+mlxtend
