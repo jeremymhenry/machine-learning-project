@@ -1,0 +1,9 @@
+/.idea
+/venv
+/resources/intraQuarter
+/forward
+/com/__pycache__/
+/com/ucdenver/__pycache__/
+/com/ucdenver/ml/__pycache__/
+/com/ucdenver/ml/model/__pycache__/
+/com/ucdenver/ml/utils/__pycache__/
